@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'pt-BR',
   title: "Primeiro Teste com o Site da Px",
   description: "Implementação do VitePress no Netlify. ",
   themeConfig: {

@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Ainda
+      link: /ainda
 
 features:
   - title: Feature A
