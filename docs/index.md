@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Teste do Pablo"
+  name: "Teste do Pablo valendo"
   text: "Implementação do VitePress no Netlify. "
   tagline: My great project tagline
   actions:
