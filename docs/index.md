@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Ainda
       link: /ainda
+    - theme: alt
+      text: Novo
+      link: /novo
 
 features:
   - title: Feature A
